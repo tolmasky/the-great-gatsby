@@ -1,0 +1,12 @@
+{
+  "name": "great-gatsby",
+  "version": "1.0.3",
+  "description": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+  "main": "epigraph.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Tragedy", "Leonardo DiCaprio"],
+  "author": "F. Scott Fitzgerald",
+  "license": "Public Domain"
+}
