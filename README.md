@@ -1,3 +1,7 @@
+<p align = "center"><b>The Great Gatsby</b></p>
+<p align = "center"><b>by F. Scott Fitzgerald</b></p>
+
+
 > Then wear the gold hat, if that will move her;
 >    If you can bounce high, bounce for her too,
 > Till she cry "Lover, gold-hatted, high-bouncing lover,
