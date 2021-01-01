@@ -1,6 +1,6 @@
 {
   "name": "great-gatsby",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "So we beat on, boats against the current, borne back ceaselessly into the past.",
   "main": "epigraph.md",
   "scripts": {
